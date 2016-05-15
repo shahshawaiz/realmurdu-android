@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shawaiz.realmurdu" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AvailableGamesActivity"
+            android:label="@string/title_activity_available_games" >
+        </activity>
+        <activity
+            android:name=".FeedbackActivity"
+            android:label="@string/title_activity_feedback" >
+        </activity>
+        <activity
+            android:name=".Game1Activity"
+            android:label="@string/title_activity_game1" >
+        </activity>
+        <activity
+            android:name=".Game2Activity"
+            android:label="@string/title_activity_game2" >
+        </activity>
+        <activity
+            android:name=".LanguageActivity"
+            android:label="@string/title_activity_language" >
+        </activity>
+        <activity
+            android:name=".ScoreboardActivity"
+            android:label="@string/title_activity_scoreboard" >
+        </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings" >
+        </activity>
+        <activity
+            android:name=".UpdateLangActivity"
+            android:label="@string/title_activity_update_lang" >
+        </activity>
+    </application>
+
+</manifest>

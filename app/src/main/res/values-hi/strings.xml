@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">उर्दू की दुनिया</string>
+    <string name="app_sub_title">उर्दू की दुनिया में यात्रा</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="question_skipped">सवाल छोड़ी!</string>
+    <string name="language_changed_successfully">भाषा सफलतापूर्वक बदला!</string>
+    <string name="score_reseted">स्कोर सफलतापूर्वक बदला!</string>
+
+
+    <string name="home_option_play">यात्रा शुरू</string>
+    <string name="home_option_scoreboard">स्कोरबोर्ड</string>
+    <string name="home_option_settings">सेटिंग्स</string>
+    <string name="home_option_feedback">प्रतिक्रिया</string>
+
+    <string name="available_games_title">उपलब्ध खेल</string>
+    <string name="available_games_option_1">सही वर्णमाला को पहचानें</string>
+    <string name="available_games_option_2">सही वस्तु की पहचान</string>
+    <string name="available_games_option_3">वर्णमाला का मिलान करें</string>
+
+    <string name="game_1_title">वस्तु की पहचान</string>
+    <string name="game_2_title">वर्णमाला को पहचानें</string>
+    <string name="game_3_title">वर्णमाला और सही वस्तु का मिलान करें</string>
+
+    <string name="game_1_instruction">वर्णमाला को पहचानें</string>
+    <string name="game_2_instruction">वर्णमाला को पहचानें</string>
+
+    <string name="game_answer_select_option">कोई विकल्प चुनें</string>
+    <string name="game_answer_correct">सही उत्तर</string>
+    <string name="game_answer_wrong">ग़लत उत्तर</string>
+
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="settings_option_language">भाषा बदलो</string>
+    <string name="settings_option_scoreboard">स्कोरबोर्ड रीसेट</string>
+    <string name="settings_language_title">अपनी भाषा का चयन करें</string>
+    <string name="language_urdu">उर्दू</string>
+    <string name="language_english">अंग्रेज़ी</string>
+    <string name="language_french">फ्रेंच</string>
+    <string name="language_hindi">हिंदी</string>
+    <string name="language_espanol">स्पेनीस</string>
+
+    <string name="scoreboard_title">स्कोरबोर्ड</string>
+    <string name="scoreboard_label_game">खेल</string>
+    <string name="scoreboard_label_tries">कोशिश</string>
+    <string name="scoreboard_label_score">स्कोर</string>
+
+    <string name="feedback_title">प्रतिक्रिया</string>
+    <string name="feedback_label_instructions">यहाँ अपनी टिप्पणी लिखें</string>
+    <string name="title_activity_available_games">उपलब्ध खेल</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="title_activity_game1">खेल 1</string>
+    <string name="title_activity_game2">खेल 2</string>
+    <string name="title_activity_scoreboard">स्कोरबोर्ड</string>
+    <string name="title_activity_feedback">प्रतिक्रिया</string>
+    <string name="title_activity_settings">सेटिंग्स</string>
+    <string name="title_activity_language">भाषा</string>
+
+    <string name="button_submit">प्रस्तुत करना</string>
+    <string name="button_reset">पुनः आरंभ करें</string>
+</resources>

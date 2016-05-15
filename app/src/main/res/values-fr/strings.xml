@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">monde de l'ourdou</string>
+    <string name="app_sub_title">Dans le domaine de l'ourdou</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="question_skipped">Question Sautée!</string>
+    <string name="language_changed_successfully">Langue modifié avec succès!</string>
+    <string name="score_reseted">Score reseted succès!</string>
+
+
+    <string name="home_option_play">Commencez Journey</string>
+    <string name="home_option_scoreboard">Tableau de bord</string>
+    <string name="home_option_settings">Paramètres</string>
+    <string name="home_option_feedback">réaction</string>
+
+    <string name="available_games_title">Jeux disponibles</string>
+    <string name="available_games_option_1">Identifier alphabet correcte</string>
+    <string name="available_games_option_2">Identifier objet correct</string>
+    <string name="available_games_option_3">Correspondre à l'alphabet</string>
+
+    <string name="game_1_title">Identifier l'objet</string>
+    <string name="game_2_title">Identifier l' Alphabet</string>
+    <string name="game_3_title">Correspondre à l'alphabet et objet correct</string>
+
+    <string name="game_1_instruction">Identifier l'alphabet</string>
+    <string name="game_2_instruction">Choisissez un objet</string>
+
+    <string name="game_answer_select_option">Choisi une option</string>
+    <string name="game_answer_correct">Bonne réponse</string>
+    <string name="game_answer_wrong">Réponse incorrecte</string>
+
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_option_language">Changer de langue</string>
+    <string name="settings_option_scoreboard">réinitialiser tableau de bord</string>
+    <string name="settings_language_title">S'il vous plaît sélectionner votre langue</string>
+    <string name="language_urdu">Urdu</string>
+    <string name="language_english">Anglais</string>
+    <string name="language_french">française</string>
+    <string name="language_espanol">Español</string>
+    <string name="language_hindi">Hindi</string>
+
+    <string name="scoreboard_title">Tableau de bord</string>
+    <string name="scoreboard_label_game">Jeu</string>
+    <string name="scoreboard_label_tries">essais</string>
+    <string name="scoreboard_label_score">But</string>
+
+    <string name="feedback_title">réaction</string>
+    <string name="feedback_label_instructions">Écrivez ici vos commentaires</string>
+    <string name="title_activity_available_games">Jeux disponibles</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_game1">Jeu 1</string>
+    <string name="title_activity_game2">Jeu 2</string>
+    <string name="title_activity_scoreboard">Tableau de bord</string>
+    <string name="title_activity_feedback">Réaction</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="title_activity_language">Langue</string>
+
+    <string name="button_submit">Proposer</string>
+    <string name="button_reset">Réinitialiser</string>
+</resources>

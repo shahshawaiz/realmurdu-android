@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">mundo de urdu</string>
+    <string name="app_sub_title">En el ámbito de urdu</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="question_skipped">pregunta ha parado!</string>
+    <string name="language_changed_successfully">Idioma cambiado correctamente!</string>
+    <string name="score_reseted">Puntuación reseted con éxito!</string>
+
+
+    <string name="home_option_play">Comience Viaje</string>
+    <string name="home_option_scoreboard">Marcador</string>
+    <string name="home_option_settings">Ajustes</string>
+    <string name="home_option_feedback">Retroalimentación</string>
+
+    <string name="available_games_title">Disponibilidad de juegos</string>
+    <string name="available_games_option_1">Identificar alfabeto correcta</string>
+    <string name="available_games_option_2">Identificar objeto correcto</string>
+    <string name="available_games_option_3">Coinciden con el alfabeto</string>
+
+    <string name="game_1_title">Identificar el objeto</string>
+    <string name="game_2_title">Identificar el alfabeto</string>
+    <string name="game_3_title">Coincidir con el alfabeto y objeto correcto</string>
+
+    <string name="game_1_instruction">Identificar el alfabeto</string>
+    <string name="game_2_instruction">Identificar un objeto</string>
+
+    <string name="game_answer_select_option">Selecciona una opcion</string>
+    <string name="game_answer_correct">Respuesta correcta</string>
+    <string name="game_answer_wrong">Respuesta incorrecta</string>
+
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_option_language">Cambiar idioma</string>
+    <string name="settings_option_scoreboard">Restablecer Marcador</string>
+    <string name="settings_language_title">Seleccione su idioma</string>
+    <string name="language_urdu">Urdu</string>
+    <string name="language_english">Inglés</string>
+    <string name="language_french">Francés</string>
+    <string name="language_hindi">Hindi</string>
+    <string name="language_espanol">Español</string>
+
+    <string name="scoreboard_title">Marcador</string>
+    <string name="scoreboard_label_game">Juego</string>
+    <string name="scoreboard_label_tries">Intentos</string>
+    <string name="scoreboard_label_score">Puntuación</string>
+
+    <string name="feedback_title">Retroalimentación</string>
+    <string name="feedback_label_instructions">Escriba sus comentarios aquí</string>
+    <string name="title_activity_available_games">Disponible Juegos Actividad</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_game1">Juego 1</string>
+    <string name="title_activity_game2">Juego 2</string>
+    <string name="title_activity_scoreboard">Marcador</string>
+    <string name="title_activity_feedback">Retroalimentación</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="title_activity_language">Idioma</string>
+
+    <string name="button_submit">Enviar</string>
+    <string name="button_reset">Reiniciar</string>
+</resources>

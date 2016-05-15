@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">اردو کی دنیا</string>
+    <string name="app_sub_title">اردو کی دنیا کا سفر</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="question_skipped">سوال چھوڑدياگيا!</string>
+    <string name="language_changed_successfully">زبان کامیابی سے تبدیل کردی گئ!</string>
+    <string name="score_reseted">اسکور کامیابی ریسیٹد!</string>
+
+
+    <string name="home_option_play">شروع کریں</string>
+    <string name="home_option_scoreboard">اسکور بورڈ</string>
+    <string name="home_option_settings">سيٹنگز</string>
+    <string name="home_option_feedback">سرائے</string>
+
+    <string name="available_games_title">دستیاب گيمز</string>
+    <string name="available_games_option_1">حروف تہجی کی شناخت</string>
+    <string name="available_games_option_2">چیزوں کی شناخت</string>
+    <string name="available_games_option_3">Match the alphabet</string>
+
+    <string name="game_1_title">حروف تہجی کی شناخت</string>
+    <string name="game_2_title">چیزوں کی شناخت</string>
+    <string name="game_3_title">دستیاب گيمز</string>
+
+    <string name="game_1_instruction">حروف کی شناخت کريں</string>
+    <string name="game_2_instruction">چیزوں کی شناخت کريں</string>
+
+    <string name="game_answer_select_option">براہ مہربانی منتخب کریں</string>
+    <string name="game_answer_correct">درست جواب</string>
+    <string name="game_answer_wrong">غلط جواب</string>
+
+    <string name="settings_title">سيٹنگز</string>
+    <string name="settings_option_language">زبان منتخب کریں</string>
+    <string name="settings_option_scoreboard">ری سیٹ اسکورکارڈ</string>
+    <string name="settings_language_title">آپ کی زبان کا انتخاب کریں</string>
+    <string name="language_urdu">اردو</string>
+    <string name="language_english">انگریزی</string>
+    <string name="language_french">فرانسیسی</string>
+    <string name ="language_espanol">ہسپانوی</string>
+    <string name="language_hindi">ہندی</string>
+
+    <string name="scoreboard_title">اسکور بورڈ</string>
+    <string name="scoreboard_label_game">کھیل</string>
+    <string name="scoreboard_label_tries">بارياں</string>
+    <string name="scoreboard_label_score">اسکور</string>
+
+    <string name="feedback_title">رائے</string>
+    <string name="feedback_label_instructions">اپني راۓ یہاں  لکھیں</string>
+    <string name="title_activity_available_games">گيمز</string>
+    <string name="action_settings">سيٹنگز</string>
+    <string name="title_activity_game1">حروف تہجی کی شناخت</string>
+    <string name="title_activity_game2">چیزوں کی شناخت</string>
+
+    <string name="title_activity_scoreboard">شروع کریں</string>
+    <string name="title_activity_feedback">اسکور بورڈ</string>
+    <string name="title_activity_settings">سيٹنگز</string>
+    <string name="title_activity_language">سرائے</string>
+    
+    <string name="button_submit">سپمٹ</string>
+    <string name="button_reset">ری سيٹ</string>
+</resources>

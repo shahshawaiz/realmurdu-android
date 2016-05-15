@@ -1,0 +1,127 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".HomeActivity"
+    android:background="#009999"
+    >
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:id="@+id/header_title"
+            android:text="@string/app_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="20pt"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            />
+
+        <TextView
+            android:id="@+id/header_subtitle"
+            android:text="@string/app_sub_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="10pt"
+            android:textAllCaps="true"
+            />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal" >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+
+                    <ImageView
+                        android:id="@+id/option_play"
+                        android:src="@drawable/icon_menu_play_white"
+                        android:layout_width="350px"
+                        android:layout_height="350px"
+                        android:padding="50px"
+                        android:layout_gravity="center_vertical"
+                        android:onClick="callActivityPlay"
+                        />
+
+
+                    <ImageView
+                        android:id="@+id/option_scoreboard"
+                        android:src="@drawable/icon_menu_scoreboard_white"
+                        android:layout_width="350px"
+                        android:layout_height="350px"
+                        android:padding="50px"
+                        android:layout_gravity="center_vertical"
+                        android:onClick="callActivityScorecard"
+                        />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal" >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/option_settings"
+                        android:src="@drawable/icon_menu_setting_white"
+                        android:layout_width="350px"
+                        android:layout_height="350px"
+                        android:padding="50px"
+                        android:layout_gravity="center_vertical"
+                        android:onClick="callActivitySettings"
+                        />
+
+                    <ImageView
+                        android:id="@+id/option_feedback"
+                        android:src="@drawable/icon_menu_feedback_white"
+                        android:layout_width="300px"
+                        android:layout_height="300px"
+                        android:padding="50px"
+                        android:layout_gravity="center_vertical"
+                        android:onClick="callActivityFeedback"
+                        />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
